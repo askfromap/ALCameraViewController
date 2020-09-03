@@ -279,7 +279,7 @@
 				TargetAttributes = {
 					C4829FFA1CAEB16C00541D08 = {
 						CreatedOnToolsVersion = 7.3;
-						LastSwiftMigration = 1010;
+						LastSwiftMigration = 1200;
 					};
 					FAF0583E1B31618D008E5592 = {
 						CreatedOnToolsVersion = 6.3.2;
@@ -294,6 +294,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -411,7 +412,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.zero.CameraViewController;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
@@ -434,7 +435,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.zero.CameraViewController;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
